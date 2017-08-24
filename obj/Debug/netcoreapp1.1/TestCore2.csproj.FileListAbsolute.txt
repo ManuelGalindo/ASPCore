@@ -1,0 +1,9 @@
+d:\proy\TestCore2\bin\Debug\netcoreapp1.1\TestCore2.deps.json
+d:\proy\TestCore2\bin\Debug\netcoreapp1.1\TestCore2.runtimeconfig.json
+d:\proy\TestCore2\bin\Debug\netcoreapp1.1\TestCore2.runtimeconfig.dev.json
+d:\proy\TestCore2\bin\Debug\netcoreapp1.1\TestCore2.dll
+d:\proy\TestCore2\bin\Debug\netcoreapp1.1\TestCore2.pdb
+d:\proy\TestCore2\obj\Debug\netcoreapp1.1\TestCore2.csproj.CoreCompileInputs.cache
+d:\proy\TestCore2\obj\Debug\netcoreapp1.1\TestCore2.AssemblyInfo.cs
+d:\proy\TestCore2\obj\Debug\netcoreapp1.1\TestCore2.dll
+d:\proy\TestCore2\obj\Debug\netcoreapp1.1\TestCore2.pdb
